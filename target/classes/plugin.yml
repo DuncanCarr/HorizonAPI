@@ -1,5 +1,0 @@
-name: HorizonAPI
-version: 1.0.0-SNAPSHOT
-main: herizone.horizonapi.HorizonAPI
-authors: [Herizone]
-description: Horizon's API for 1.12.2

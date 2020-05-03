@@ -1,2 +1,0 @@
-# HorizonAPI
- Horizon's API
