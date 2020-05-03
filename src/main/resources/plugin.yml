@@ -1,0 +1,5 @@
+name: HorizonAPI
+version: ${project.version}
+main: herizone.horizonapi.HorizonAPI
+authors: [Herizone]
+description: Horizon's API for 1.12.2
